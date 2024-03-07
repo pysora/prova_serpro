@@ -1,0 +1,7 @@
+A respeito da ferrmenta Git suponha a seguinte situação:
+Você precisa criar uma cópia de um projeto para trabalhar localmente. Será necessário fazer modificações em alguns arquivos (pelo menos dois) e depois incluir essas modificações no projeto principal. Utilizando comandos Git, como essas ações seriam feitas ? Utilize para o projeto e os arquivos os nomes que desejar, apenas deixe claro qual nome representa o proejto e quais representam os arquivos.
+R: Primeiro se utiliza o "git clone" para fazer uma cópia local dos arquivos do repositório, após realizar as edições nos arquivos, se utiliza o comando "git add" para adicionar as alterações feitas, em seguida se utiliza o "git commit", e para finalizar e subir as alterações para o repositório se utiliza o "git push".
+
+
+A respeito da ferramenta git, qual comando verifica os metadados do repositório original e faz as atualizções necessárias, caso existam.
+R: O comando "git pull".
